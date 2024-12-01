@@ -1,2 +1,2 @@
 # Amazon_Clone
-Amazon Webpage Clone (HTML &amp; CSS)
+This webpage is cloned only using HTML &amp; and CSS
